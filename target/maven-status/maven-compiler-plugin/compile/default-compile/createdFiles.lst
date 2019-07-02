@@ -1,0 +1,5 @@
+facebook\InvalidCredsPage.class
+facebook\AuthenticationPage.class
+facebook\CommonUtils.class
+facebook\TestBase.class
+facebook\UserHomePage.class

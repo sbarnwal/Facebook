@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo Suite" duration-ms="132054" started-at="2019-07-02T10:24:46Z" finished-at="2019-07-02T10:26:58Z">
+    <groups>
+    </groups>
+    <test name="Demo Test" duration-ms="132054" started-at="2019-07-02T10:24:46Z" finished-at="2019-07-02T10:26:58Z">
+      <class name="loginPageServices.VerifyLoginPageServices">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="beforeSuite" is-config="true" duration-ms="19" started-at="2019-07-02T15:54:46Z" finished-at="2019-07-02T15:54:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="beforeTest" is-config="true" duration-ms="21261" started-at="2019-07-02T15:54:46Z" finished-at="2019-07-02T15:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyFacebookLiteOption()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="verifyFacebookLiteOption" duration-ms="13657" started-at="2019-07-02T15:55:07Z" finished-at="2019-07-02T15:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFacebookLiteOption -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2019-07-02T15:55:07Z" finished-at="2019-07-02T15:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="afterTest" is-config="true" duration-ms="1443" started-at="2019-07-02T15:55:21Z" finished-at="2019-07-02T15:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="verifyMessengerOption()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="verifyMessengerOption" duration-ms="15941" started-at="2019-07-02T15:55:22Z" finished-at="2019-07-02T15:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMessengerOption -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2019-07-02T15:55:22Z" finished-at="2019-07-02T15:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="afterTest" is-config="true" duration-ms="10" started-at="2019-07-02T15:55:38Z" finished-at="2019-07-02T15:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2019-07-02T15:55:38Z" finished-at="2019-07-02T15:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="verifySignup()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="verifySignup" duration-ms="33664" started-at="2019-07-02T15:55:38Z" finished-at="2019-07-02T15:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignup -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="afterTest" is-config="true" duration-ms="1337" started-at="2019-07-02T15:56:12Z" finished-at="2019-07-02T15:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="beforeTestMethod" is-config="true" duration-ms="0" started-at="2019-07-02T15:56:13Z" finished-at="2019-07-02T15:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="verifyWatchOption()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="verifyWatchOption" duration-ms="44329" started-at="2019-07-02T15:56:13Z" finished-at="2019-07-02T15:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWatchOption -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="afterTest" is-config="true" duration-ms="395" started-at="2019-07-02T15:56:58Z" finished-at="2019-07-02T15:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:loginPageServices.VerifyLoginPageServices@9629756]" name="afterSuite" is-config="true" duration-ms="1008" started-at="2019-07-02T15:56:58Z" finished-at="2019-07-02T15:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- loginPageServices.VerifyLoginPageServices -->
+    </test> <!-- Demo Test -->
+  </suite> <!-- Demo Suite -->
+</testng-results>

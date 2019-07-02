@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Demo Suite]" verbose="0">
+  <test parallel="methods" name="Demo Test(failed)">
+    <classes>
+      <class name="facebook.LoginCheck">
+        <methods>
+          <include name="testLogin"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- facebook.LoginCheck -->
+    </classes>
+  </test> <!-- Demo Test(failed) -->
+</suite> <!-- Failed suite [Demo Suite] -->

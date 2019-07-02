@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo Suite" duration-ms="58918" started-at="2019-06-18T09:25:43Z" finished-at="2019-06-18T09:26:42Z">
+    <groups>
+    </groups>
+    <test name="Demo Test" duration-ms="58918" started-at="2019-06-18T09:25:43Z" finished-at="2019-06-18T09:26:42Z">
+      <class name="facebook.LoginCheck">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:facebook.LoginCheck@3d8c7aca]" name="beforeSuite" is-config="true" duration-ms="5526" started-at="2019-06-18T14:55:38Z" finished-at="2019-06-18T14:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:facebook.LoginCheck@3d8c7aca]" name="testLogin" duration-ms="58908" started-at="2019-06-18T14:55:43Z" finished-at="2019-06-18T14:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- facebook.LoginCheck -->
+    </test> <!-- Demo Test -->
+  </suite> <!-- Demo Suite -->
+</testng-results>
